@@ -12,7 +12,7 @@ I am highly motivated to learn, improve code quality, and grow as a professional
 
 Skills & Technical Competencies
 
-\- Programming Fundamentals:\*\* Strong understanding of Object-Oriented Programming (OOP), clean code principles, and basic design patterns
+\- Programming Fundamentals: Strong understanding of Object-Oriented Programming (OOP), clean code principles, and basic design patterns
 
 \- Programming Languages: Python, Java, PHP, JavaScript
 
